@@ -10,3 +10,6 @@
 [submodule "escrow_turbin3"]
 	path = escrow_turbin3
 	url = https://github.com/Vedhkumar/escrow_turbin3
+[submodule "AMM"]
+	path = AMM
+	url = https://github.com/Vedhkumar/AMM
