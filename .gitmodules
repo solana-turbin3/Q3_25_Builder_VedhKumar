@@ -19,3 +19,6 @@
 [submodule "marketplace"]
 	path = marketplace
 	url = https://github.com/Vedhkumar/marketplace
+[submodule "capstone-turbin3"]
+	path = capstone-turbin3
+	url = https://github.com/Vedhkumar/capstone-turbin3
