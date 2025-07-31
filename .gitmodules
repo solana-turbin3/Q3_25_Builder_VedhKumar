@@ -22,3 +22,6 @@
 [submodule "capstone-turbin3"]
 	path = capstone-turbin3
 	url = https://github.com/Vedhkumar/capstone-turbin3
+[submodule "dice"]
+	path = dice
+	url = https://github.com/Vedhkumar/dice
